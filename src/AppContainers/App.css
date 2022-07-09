@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Lovely Natasya Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Lovely Natasya Regular'), url('Lovely Natasya.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Lovely Natasya Regular';
+    color:whitesmoke;
+    text-shadow: 3px 3px 3px gray;
+    font-weight: 900;
+}
+
+h3 {
+    font-family: 'Lovely Natasya Regular';
+    color:whitesmoke;
+    text-shadow: 5px 5px 5px gray;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+p{
+    color: whitesmoke;
+    font-family: 'Lovely Natasya';
+    font-weight: 600;
+}
+
+input{
+    border-radius: 25px;
+    outline: none;
+}
